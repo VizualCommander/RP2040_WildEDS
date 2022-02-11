@@ -1,0 +1,1 @@
+This folder is for CAD designs related to cases, fixtures, 3d prints, etc for WildEDS
