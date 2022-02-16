@@ -3186,7 +3186,7 @@
     (effects (font (size 2.2606 2.2606)) (justify left bottom))
     (uuid 10b20c6b-8045-46d1-a965-0d7dd9a1b5fa)
   )
-  (text "Cap close to pin 44" (at 92.71 71.12 0)
+  (text "Cap close to pin 44" (at 15.24 87.63 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f57eebc9-3c82-4c56-a6c8-df2ca8e53ecb)
   )
