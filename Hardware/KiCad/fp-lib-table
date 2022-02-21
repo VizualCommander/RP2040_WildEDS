@@ -1,8 +1,0 @@
-(fp_lib_table
-  (lib (name LoRa-E5)(type KiCad)(uri /home/jlchacos/Downloads/LoRa-E5_kicad/LoRa-E5.pretty)(options "")(descr ""))
-  (lib (name RP2040KICAD)(type KiCad)(uri /home/jlchacos/Downloads/RP2040KICAD)(options "")(descr ""))
-  (lib (name 901-143-6RFX)(type KiCad)(uri /home/jlchacos/Downloads/901-143-6RFX)(options "")(descr ""))
-  (lib (name SamtecConn)(type KiCad)(uri /home/jlchacos/Downloads/SamtecConn)(options "")(descr ""))
-  (lib (name 54-00125)(type KiCad)(uri /home/jlchacos/Documents/54-00125)(options "")(descr ""))
-  (lib (name RP2040_WEDS)(type KiCad)(uri /home/jlchacos/Documents/WildEDS/RP2040_WEDS.pretty)(options "")(descr ""))
-)
