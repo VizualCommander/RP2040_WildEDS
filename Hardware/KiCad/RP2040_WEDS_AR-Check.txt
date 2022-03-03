@@ -6,6 +6,15 @@ Testing PCB for Annular Rings
 TH Pads >= 0.125 Vias >= 0.125
 PHD margin on PTH = 0
 
-VIAS that Pass = 69; Fails = 0
-TH PADS that Pass = 26; Fails = 0
+AR Via violation of 0.05 at XY 146.8525,106.055
+AR Via violation of 0.05 at XY 148.03,107.255
+AR Via violation of 0.05 at XY 148.03,106.005
+AR Via violation of 0.05 at XY 145.63,104.855
+AR Via violation of 0.05 at XY 146.83,104.855
+AR Via violation of 0.05 at XY 145.63,106.055
+AR Via violation of 0.05 at XY 146.83,107.255
+AR Via violation of 0.05 at XY 148.03,104.855
+AR Via violation of 0.05 at XY 145.63,107.255
+VIAS that Pass = 57; Fails = 9
+TH PADS that Pass = 24; Fails = 0
 NPTH PADS that Pass = 0; Fails = 0
