@@ -1,0 +1,10 @@
+### Missing 3D models - created on 2022-03-07 22:36
+### Printed by checking_3D_models plugin
+Board file: /home/jlchacos/Documents/RP2040_WildEDS/Hardware/KiCad/RP2040_WEDS.kicad_pcb
+3D missing models written to:
+/home/jlchacos/Documents/RP2040_WildEDS/Hardware/KiCad/RP2040_WEDS_missing3Dmodels.txt
+-------
+('J8', '${KISYS3DMOD}/Connector_Coaxial.3dshapes/SMA_Amphenol_132289_EdgeMount.wrl')
+-------
+NUM of 3D missing models:1
+checked extensions ['.stp', '.step', '.stpZ']
