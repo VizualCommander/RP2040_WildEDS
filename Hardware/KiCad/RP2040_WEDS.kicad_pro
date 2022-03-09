@@ -348,7 +348,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "54-00125"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
